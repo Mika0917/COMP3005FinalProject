@@ -8,8 +8,9 @@ Link to youtube video: [https://youtu.be/ML6CIbSRMAE](https://youtu.be/H3xxs3xO0
 
 Link to project report: https://docs.google.com/document/d/1pA3QEo2N_dIrCkd5TvogGy7SRRh918dMDqaMEsw4T2Y/edit?usp=sharing
 
-I have uploaded a PNG of the ER Model Design and the Relational Database Schema to the repository and it is in the project report.
+Please accept this late submission🥺🐐 watch the vid it might be entertaining.
 
+I have uploaded a PNG of the ER Model Design and the Relational Database Schema to the repository and it is in the project report pdf.
 
 You will need: Java JDK 11 or newer PostgreSQL PostgreSQL JDBC driver
 
