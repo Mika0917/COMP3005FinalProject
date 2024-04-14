@@ -8,7 +8,7 @@ Link to youtube video: [https://youtu.be/ML6CIbSRMAE](https://youtu.be/H3xxs3xO0
 
 Link to project report: https://docs.google.com/document/d/1pA3QEo2N_dIrCkd5TvogGy7SRRh918dMDqaMEsw4T2Y/edit?usp=sharing
 
-Please accept this late submission🥺🐐 watch the vid it might be entertaining.
+Please accept this late submission🥺🐐 watch the vid it might be entertaining (if its low quality by the time you view it, it could still be rendering it should be in 1080p. Thank you for grading :) 
 
 I have uploaded a PNG of the ER Model Design and the Relational Database Schema to the repository and it is in the project report pdf.
 
