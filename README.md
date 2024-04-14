@@ -4,7 +4,7 @@ COMP 3005 Final Project V2 Submission
 
 Name: Mika Toktamyssov Student id: 101229597
 
-Link to youtube video: https://youtu.be/ML6CIbSRMAE
+Link to youtube video: [https://youtu.be/ML6CIbSRMAE](https://youtu.be/H3xxs3xO0RM)
 
 Link to project report: https://docs.google.com/document/d/1pA3QEo2N_dIrCkd5TvogGy7SRRh918dMDqaMEsw4T2Y/edit?usp=sharing
 
